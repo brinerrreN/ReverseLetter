@@ -5,6 +5,7 @@ public class ReverseLetter {
         String input = "J@va the be$t!123";
         String result = reverseLetters(input);
         System.out.println(result);
+        int a = 10;
     }
 
     public static String reverseLetters(String s) {
